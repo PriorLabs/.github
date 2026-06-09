@@ -1,6 +1,6 @@
 <p align="center">
-  <img alt="Prior Labs" src="https://raw.githubusercontent.com/PriorLabs/.github/main/logos/prior-logo-on-dark.png#gh-dark-mode-only" width="50%"/>
-  <img alt="Prior Labs" src="https://raw.githubusercontent.com/PriorLabs/.github/main/logos/prior-logo-on-white.png#gh-light-mode-only" width="50%"/>
+  <img alt="Prior Labs" src="https://raw.githubusercontent.com/PriorLabs/.github/refs/heads/main/logos/prior-logo-on-dark.png#gh-dark-mode-only" width="50%"/>
+  <img alt="Prior Labs" src="https://raw.githubusercontent.com/PriorLabs/.github/refs/heads/main/logos/prior-logo-on-white.png#gh-light-mode-only" width="50%"/>
 </p>
 
 
