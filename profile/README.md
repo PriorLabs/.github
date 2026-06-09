@@ -1,7 +1,7 @@
-<p align="center">
+<!-- <p align="center">
   <img alt="Prior Labs" src="https://raw.githubusercontent.com/PriorLabs/.github/refs/heads/main/logos/prior-logo-on-dark.png#gh-dark-mode-only" width="50%"/>
   <img alt="Prior Labs" src="https://raw.githubusercontent.com/PriorLabs/.github/refs/heads/main/logos/prior-logo-on-white.png#gh-light-mode-only" width="50%"/>
-</p>
+</p> -->
 
 
 **Prior Labs** builds tabular foundation models for structured data. **TabPFN** is our pre-trained model that makes predictions via in-context learning — provide your training rows, run one forward pass, and you're done. No retraining, no tuning loops. Pretrained on billions of synthetic tasks, it handles classification, regression, and forecasting on messy tables.
