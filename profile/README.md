@@ -8,6 +8,7 @@
 
 - 🌐 [Website](https://priorlabs.ai?utm_source=github-org)
 - 📖 [Docs](https://docs.priorlabs.ai/overview?utm_source=github-org)
+- 🧑‍🍳 [Cookbook](https://docs.priorlabs.ai/cookbook?utm_source=github-org)
 - 🚀 [Quickstart](https://docs.priorlabs.ai/quickstart?utm_source=github-org)
 - 🔑 [Get API key](https://ux.priorlabs.ai?utm_source=github-org)
 - ✍️ [Blog](https://priorlabs.ai/blog?utm_source=github-org)
